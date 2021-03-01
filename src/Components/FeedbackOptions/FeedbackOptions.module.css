@@ -1,0 +1,12 @@
+.feedbackButton {
+  width: 70px;
+  height: 30px;
+  background-color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 15px;
+  outline: none;
+  cursor: pointer;
+
+  margin-right: 8px;
+  box-shadow: 0 0 5px;
+}
